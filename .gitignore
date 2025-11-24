@@ -1,0 +1,22 @@
+# PyCharm
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+
+# Логи
+*.log
+
+# Виртуальные окружения
+env/
+venv/
+
+# Исключить конфигурационные файлы
+config.py
+
+files/
